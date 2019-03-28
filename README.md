@@ -1,1 +1,1 @@
-# Loading-Data-Into-PostgreSQL-with-R
+# Loading-Data-Into-R-with-PostgreSQL
