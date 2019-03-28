@@ -23,7 +23,7 @@ drive <- dbDriver('PostgreSQL')
 
 #input correct database information
 con <- DBI::dbConnect(drive, 
-                      dbname = 'mtcars',
+                      dbname = '',
                       host = '',
                       port = , user = '',
                       password = '')
